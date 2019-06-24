@@ -64,3 +64,18 @@
 [] get db object form mongoose.connection
 [] create on error handler
 [] create once on open
+
+# deployment
+
+[] go to "https://www.heroku.com/"
+[] create a account
+[] create new app
+[] in section "deployment method" click on GitHub and connect yout repo with heroku
+[] choose between "Enable auto deploys" || "Manual deploy"
+[] finally click on "deploy branch"
+[] finally click on "View" ==> you will see an error!
+[] create accoutn on "https://cloud.mongodb.com/" => create clutster => create collection
+[] create a user
+[] get the connection string and paste user credentials
+[] add enviroment variable ==> settings => reveal config vars
+[] DATABASE_URL : <connection-string>
