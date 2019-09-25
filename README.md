@@ -1,4 +1,4 @@
-# Node-Express-MongoDB - Boilerplate
+# Node-Express-ejs-MongoDB - Boilerplate
 
 ### The following Instructions are to start from scratch without cloning this boilerplate.
 ### If you don't need it then just clone this repo and have fun
